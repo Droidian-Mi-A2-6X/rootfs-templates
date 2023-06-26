@@ -1,0 +1,6 @@
+Architectures: arm64
+Components: main
+Suites: bookworm
+Uris: https://raw.githubusercontent.com/Droidian-Mi-A2-6X/jasmine-repo/master
+Types: deb
+Signed-By: /var/lib/extrepo/keys/jasmine.asc
